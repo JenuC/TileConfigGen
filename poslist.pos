@@ -1,0 +1,499 @@
+{
+  "encoding": "UTF-8",
+  "format": "Micro-Manager Property Map",
+  "major_version": 2,
+  "minor_version": 0,
+  "map": {
+    "StagePositions": {
+      "type": "PROPERTY_MAP",
+      "array": [
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage:XY:31"
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage:Z:32"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage:XY:31"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    18919.525,
+                    15699.905
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:Z:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    3489.17
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:F:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    -1000.0000000000001
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "2-Pos000_000"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "scalar": {
+              "OverlapPixels": {
+                "type": "STRING",
+                "scalar": "0"
+              },
+              "OverlapUm": {
+                "type": "STRING",
+                "scalar": "0.0000"
+              },
+              "Source": {
+                "type": "STRING",
+                "scalar": "TileCreator"
+              }
+            }
+          }
+        },
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage:XY:31"
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage:Z:32"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage:XY:31"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    20457.685,
+                    15699.905
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:Z:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    3489.17
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:F:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    -1000.0000000000001
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 1
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "2-Pos001_000"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "scalar": {
+              "OverlapPixels": {
+                "type": "STRING",
+                "scalar": "0"
+              },
+              "OverlapUm": {
+                "type": "STRING",
+                "scalar": "0.0000"
+              },
+              "Source": {
+                "type": "STRING",
+                "scalar": "TileCreator"
+              }
+            }
+          }
+        },
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage:XY:31"
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage:Z:32"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage:XY:31"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    21995.845,
+                    15699.905
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:Z:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    3489.1699999999996
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:F:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    -1000.0000000000002
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 2
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "2-Pos002_000"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "scalar": {
+              "OverlapPixels": {
+                "type": "STRING",
+                "scalar": "0"
+              },
+              "OverlapUm": {
+                "type": "STRING",
+                "scalar": "0.0000"
+              },
+              "Source": {
+                "type": "STRING",
+                "scalar": "TileCreator"
+              }
+            }
+          }
+        },
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage:XY:31"
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage:Z:32"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage:XY:31"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    21995.845,
+                    16849.105
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:Z:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    3489.1699999999996
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:F:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    -999.9999999999999
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 2
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 1
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "2-Pos002_001"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "scalar": {
+              "OverlapPixels": {
+                "type": "STRING",
+                "scalar": "0"
+              },
+              "OverlapUm": {
+                "type": "STRING",
+                "scalar": "0.0000"
+              },
+              "Source": {
+                "type": "STRING",
+                "scalar": "TileCreator"
+              }
+            }
+          }
+        },
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage:XY:31"
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage:Z:32"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage:XY:31"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    20457.685,
+                    16849.105
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:Z:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    3489.169999999999
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:F:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    -999.9999999999998
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 1
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 1
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "2-Pos001_001"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "scalar": {
+              "OverlapPixels": {
+                "type": "STRING",
+                "scalar": "0"
+              },
+              "OverlapUm": {
+                "type": "STRING",
+                "scalar": "0.0000"
+              },
+              "Source": {
+                "type": "STRING",
+                "scalar": "TileCreator"
+              }
+            }
+          }
+        },
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage:XY:31"
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage:Z:32"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage:XY:31"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    18919.525,
+                    16849.105
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:Z:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    3489.169999999999
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage:F:32"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    -999.9999999999999
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 1
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "2-Pos000_001"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "scalar": {
+              "OverlapPixels": {
+                "type": "STRING",
+                "scalar": "0"
+              },
+              "OverlapUm": {
+                "type": "STRING",
+                "scalar": "0.0000"
+              },
+              "Source": {
+                "type": "STRING",
+                "scalar": "TileCreator"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
